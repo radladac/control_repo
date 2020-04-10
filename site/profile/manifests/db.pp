@@ -1,0 +1,2 @@
+class profike::db {
+}
