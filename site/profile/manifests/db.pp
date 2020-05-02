@@ -1,2 +1,2 @@
-class profike::db {
+class profile::db {
 }
